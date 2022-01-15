@@ -10,7 +10,6 @@ The round() function returns a floating point number that is a rounded version o
 
 # Example
 
-
-Enter the number of decimals to calculate to: 5
-
-Value of pi till the 5 th digit: 3.14159
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57052959/149608739-a7d5b79a-31d1-4a4f-b87e-302f5691265e.JPG" alt="output">
+</p>
