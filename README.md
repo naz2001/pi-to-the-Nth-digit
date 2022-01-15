@@ -1,6 +1,6 @@
 # pi to the Nth digit
 
-Write code to find pi to specific digit. This is the one of the daily challenges of Day 6 MLH Local Hack Day January 2022.
+Write code to find pi to specific digit. This was the one of the daily challenges of Day 6 MLH Local Hack Day January 2022.
 
 
 
