@@ -1,12 +1,12 @@
 # pi to the Nth digit
 
-Write code to find pi to specific digit. This was the one of the daily challenges of Day 6 MLH Local Hack Day January 2022.
+Write a script to find pi to the Nth digit. This was one of the daily challenges of Day 6 MLH Local Hack Day January 2022.
 
 
 
 ## How does it work?
 
-User must enter the number of the decimals to calculate the value of pi to.
+User must enter the number of the decimals to which the value of pi should be calculated.
 
 The math.acos() method returns the arc cosine value of a number. The value of Π is calculated using acos() function which returns a numeric value between [-Π, Π].Since using acos(0.0) will return the value for 2*Π. Therefore to get the value of Π:
                                   <div align="center"> pi = round(2*acos(0.0));</div>
