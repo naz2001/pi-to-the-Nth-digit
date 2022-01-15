@@ -1,5 +1,10 @@
-# pi-to-the-Nth-digit
+# pi to the Nth digit
 
+Write code to find pi to specific digit. This is the one of the daily challenges of Day 6 MLH Local Hack Day January 2022.
+
+
+
+## How does it work?
 
 User must enter the number of the decimals to calculate the value of pi to.
 
@@ -8,7 +13,7 @@ The math.acos() method returns the arc cosine value of a number. The value of Π
 
 The round() function returns a floating point number that is a rounded version of the specified number, with the specified number of decimals.
 
-# Example
+## Example
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57052959/149608739-a7d5b79a-31d1-4a4f-b87e-302f5691265e.JPG" alt="output">
